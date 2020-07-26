@@ -1,0 +1,8 @@
+# robots.txt gerado em 
+# marketingdebusca.com.br/robots-txt/
+User-agent: Googlebot
+Disallow: 
+User-agent: Googlebot-Image
+Disallow: 
+User-agent: *
+Disallow: 
